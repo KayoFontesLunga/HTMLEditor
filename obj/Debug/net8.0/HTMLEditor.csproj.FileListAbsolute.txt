@@ -1,0 +1,14 @@
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.exe
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.deps.json
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.runtimeconfig.json
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.dll
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.pdb
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfoInputs.cache
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfo.cs
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.dll
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\refint\HTMLEditor.dll
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.pdb
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.genruntimeconfig.cache
+C:\Users\kayol\OneDrive\Documentos\HTMLEditor\obj\Debug\net8.0\ref\HTMLEditor.dll
