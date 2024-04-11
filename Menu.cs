@@ -14,16 +14,6 @@ namespace HTMLEditor
             DrawScreen();
             WriteOption();
             double? option = null;
-            // if (option == null || option < 0 || option > 2)
-            // {
-            //     Console.WriteLine("Opção invalida. Porvafor Digite um valor entre 0 e 2");
-            //     Console.Write("Digite o valor novamnete: ");
-            // }
-            // else if (option == 'A' || option == 'Z')
-            // {
-            //     Console.WriteLine("Opção invalida. Porvafor Digite um valor entre 0 e 2");
-            //     Console.Write("Digite o valor novamnete: ");
-            // }
             while (option == null || option < 0 || option > 2)
             {
                 // Console.Write("Option: ");
