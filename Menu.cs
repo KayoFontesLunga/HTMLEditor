@@ -16,7 +16,6 @@ namespace HTMLEditor
             double? option = null;
             while (option == null || option < 0 || option > 2)
             {
-                // Console.Write("Option: ");
                 var input = Console.ReadLine();
                 if (!double.TryParse(input, out double result))
                 {
